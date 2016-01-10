@@ -21,6 +21,6 @@ For example
 
 What fact will the search results among different period reveal?
 Someone say there can be inevitable effect if we make no change to our life style.
-And this project aims to give motivation to the change, before it is too late.
+And this project aims to give strong motivation to the change, before it is too late.
 
 This project is current in very early stage, such that there is only simple thoughts as above and no actual implementation. So feel free and welcome to contribute or give any help/idea if you are interested.
