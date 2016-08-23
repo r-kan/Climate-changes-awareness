@@ -2,6 +2,8 @@
 aware people how we have done to Earth which results in world climate changes
 ==========================
 
+<img border="0" alt="Man need change" src="https://raw.githubusercontent.com/r-kan/r-kan.github.io/master/images/change/image_338.jpg">
+
 This is a project to aware people how we have done to Earth which results in world climate changes…
 
 There will be one site with nothing special but a `How we’ve done to Earth` button.
